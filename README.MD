@@ -1,5 +1,5 @@
 ### miv:
-miv is a digital persona who has possible binary combinations which is readable as digital image data on www.
+miv is a digital persona who has possible binary combinations which is readable as digital image data on [www](https://en.wikipedia.org/wiki/World_Wide_Web).
 
 ### at www:
 

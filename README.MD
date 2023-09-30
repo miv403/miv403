@@ -3,8 +3,7 @@ miv is a digital persona who has possible binary combinations which is readable 
 
 ### on www:
 
-<a href="https://www.fsf.org/facebook"><img src="https://static.fsf.org/nosvn/dislike.svg" height="20" width="50"></a>
-
+<a href="https://www.fsf.org/facebook"><img src="https://static.fsf.org/nosvn/dislike.svg" height="30" width=""></a>
 ![](https://web.archive.org/web/20091019094748if_/http://it.geocities.com/super_carloz/images/ieshit.gif)
 ![](https://web.archive.org/web/20090901155427if_/http://geocities.com/jaszaswaz/Cool_003.gif)
 ![](https://web.archive.org/web/20091019152415if_/http://www.geocities.com/masterduelistsoul/animebutton.gif)

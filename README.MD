@@ -5,11 +5,13 @@ miv is a digital persona who has possible binary combinations which is readable 
 <a href="https://gist.github.com/miv403/c24a47f6baa4486bdcd74039843f4a56"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Nuvola_apps_kgpg.png" height="30" width=""></a>
 <a href="mailto:miv403@duck.com"><img src="https://web.archive.org/web/20091026135557if_/http://geocities.com/FashionAvenue/Catwalk/2138/email/emailsigm.gif" height="30"></a>
 <a href="https://www.fsf.org/facebook"><img src="https://static.fsf.org/nosvn/dislike.svg" height="30" width=""></a>
-<div>
+
+
 <a href="https://duckduckgo.com/">
     <img src="https://64.media.tumblr.com/d312f0b3659324d8afd287af6657d1c2/f5daed2f7a1f1979-dc/s1280x1920/4e96330d92a68377dc6bdcd17584910e231536be.gif"></img><br>
 </a>
-</div>
+
+
 <img src="https://64.media.tumblr.com/07992a9e7ce52111182c9c2d737e0ac5/d040b76ad8b44d47-6b/s100x200/f17aeb078f51ce77c09f6f06fb3964225d1bc107.gif"></img>
 <img src="https://64.media.tumblr.com/a288995b7aaf13e190779c0e6f08312c/d040b76ad8b44d47-1a/s100x200/c9eaea953e6b9cb64246ede01769e0ae3ad276d2.gif"></img>
 <img src="https://web.archive.org/web/20090901155427if_/http://geocities.com/jaszaswaz/Cool_003.gif"></img>

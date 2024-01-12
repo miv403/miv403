@@ -8,9 +8,8 @@ miv is a digital persona who has possible binary combinations which is readable 
 
 
 <a href="https://duckduckgo.com/">
-<img src="https://raw.githubusercontent.com/miv403/miv403.github.io/main/img/you-are-10k-th-visitor.gif"><br>
+<img src="https://raw.githubusercontent.com/miv403/miv403.github.io/main/img/you-are-10k-th-visitor.gif">
 </a>
-
 
 <img src="https://64.media.tumblr.com/07992a9e7ce52111182c9c2d737e0ac5/d040b76ad8b44d47-6b/s100x200/f17aeb078f51ce77c09f6f06fb3964225d1bc107.gif"> 
 <img src="https://64.media.tumblr.com/a288995b7aaf13e190779c0e6f08312c/d040b76ad8b44d47-1a/s100x200/c9eaea953e6b9cb64246ede01769e0ae3ad276d2.gif"> 

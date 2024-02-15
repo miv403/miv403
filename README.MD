@@ -7,7 +7,7 @@ miv is a digital persona who has possible binary combinations which is readable 
 <a href="https://www.fsf.org/facebook"><img src="https://static.fsf.org/nosvn/dislike.svg" height="30" width=""></a>
 
 
-<a href="https://miv403.github.io/index/10k.html">
+<a href="https://miv403.github.io/10k.html">
 <img src="https://raw.githubusercontent.com/miv403/miv403.github.io/main/img/you-are-10k-th-visitor.gif">
 </a>
 

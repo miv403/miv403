@@ -4,7 +4,7 @@ miv is a digital persona who has possible binary combinations which is readable 
 
 ### on www
 
-<a href="https://gist.github.com/miv403/c24a47f6baa4486bdcd74039843f4a56"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Nuvola_apps_kgpg.png" height="30" width=""></a>
+<a href="https://www.github.com/miv403.gpg/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Nuvola_apps_kgpg.png" height="30" width=""></a>
 <a href="mailto:miv403@duck.com"><img src="https://web.archive.org/web/20091026135557if_/http://geocities.com/FashionAvenue/Catwalk/2138/email/emailsigm.gif" height="30"></a>
 <a href="https://matrix.to/#/@miv403:matrix.org"><img height="30" src="https://raw.githubusercontent.com/miv403/miv403.github.io/main/img/matrix-protocol.gif"></a>
 <a href="https://www.fsf.org/facebook"><img src="https://static.fsf.org/nosvn/dislike.svg" height="30" width=""></a>

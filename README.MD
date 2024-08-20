@@ -11,6 +11,8 @@ miv is a digital persona who has possible binary combinations which is readable 
 
 ### about me
 
+miv403 is a status code for generic [DVD player](https://en.wikipedia.org/wiki/DVD_player) devices.
+
 [about page](https://miv403.github.io/bio.html)
 
 ### miv as a image aggreagator

@@ -17,7 +17,7 @@ miv403 is a status code for generic [DVD player](https://en.wikipedia.org/wiki/D
 
 ### miv as a image aggreagator
 
-<a href="https://get.opensuse.org/"><img src="https://raw.githubusercontent.com/miv403/miv403.github.io/main/img/opensuse-user.png"></a>
+<a href="https://get.opensuse.org/"><img src="https://raw.githubusercontent.com/miv403/miv403.github.io/refs/heads/main/img/fedora-user.png"></a>
 
 <a href="https://miv403.github.io/10k.html">
 <img src="https://raw.githubusercontent.com/miv403/miv403.github.io/main/img/you-are-10k-th-visitor.gif" width="350px">

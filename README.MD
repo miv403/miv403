@@ -29,9 +29,6 @@ miv403 is a status code for generic [DVD player](https://en.wikipedia.org/wiki/D
 </a>
 -->
 
-<img src="https://64.media.tumblr.com/07992a9e7ce52111182c9c2d737e0ac5/d040b76ad8b44d47-6b/s100x200/f17aeb078f51ce77c09f6f06fb3964225d1bc107.gif">
-<img src="https://raw.githubusercontent.com/miv403/miv403.github.io/refs/heads/main/img/neovim.gif">
-<img src="https://64.media.tumblr.com/a288995b7aaf13e190779c0e6f08312c/d040b76ad8b44d47-1a/s100x200/c9eaea953e6b9cb64246ede01769e0ae3ad276d2.gif">
-<img src="https://web.archive.org/web/20091026160446if_/http://geocities.com/cingular_wireless_q806/eyes.gif">
+<img src="https://64.media.tumblr.com/07992a9e7ce52111182c9c2d737e0ac5/d040b76ad8b44d47-6b/s100x200/f17aeb078f51ce77c09f6f06fb3964225d1bc107.gif"> <img src="https://raw.githubusercontent.com/miv403/miv403.github.io/refs/heads/main/img/neovim.gif"> <img src="https://64.media.tumblr.com/a288995b7aaf13e190779c0e6f08312c/d040b76ad8b44d47-1a/s100x200/c9eaea953e6b9cb64246ede01769e0ae3ad276d2.gif"> <img src="https://web.archive.org/web/20091026160446if_/http://geocities.com/cingular_wireless_q806/eyes.gif">
 
 <img src="https://web.archive.org/web/20090830165704if_/http://geocities.com/alicankeskinkilic/ata-a-aa.gif" height="" width="29">

@@ -23,6 +23,10 @@ this is a [project to calibrate and fuse MPU9250 with ESP32](https://github.com/
 
 simple point cloud [visualizer for LD19 Lidar](https://github.com/miv403/lidar-visualizer).
 
+#### STG Live Messenger
+
+[local instant messagging application](https://github.com/miv403/stg-live-messenger) that implements steganography and DES encryption with client-server pattern. it uses [LSB](https://en.wikipedia.org/wiki/Bit_numbering#Bit_significance_and_indexing) [steganography](https://en.wikipedia.org/wiki/Steganography) to embed password hash to profile picture of user. also messages are encrypted with [DES](https://en.wikipedia.org/wiki/Data_Encryption_Standard) on [CBC](https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation#CBC).
+
 ### [about me](https://miv403.github.io/bio.html)
 
 miv403 is a status code for generic [DVD player](https://en.wikipedia.org/wiki/DVD_player) devices.

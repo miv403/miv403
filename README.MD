@@ -11,9 +11,17 @@ miv is a digital persona who has possible binary combinations which is readable 
 
 ### projects
 
-- [desit](https://github.com/miv403/desit)
-- [mpu-9250](https://github.com/miv403/esp32-mpu9250)
-- [LD19 lidar](https://github.com/miv403/lidar-visualizer)
+#### C/C++ FCNN Framework
+
+i have developed a [fully connected neural network framework](https://github.com/miv403/fully-connected-neural-network) with C++ and qt5. it has functionalities like 2D space classifier and regressor. also i have used same framework to develop MNIST Database [digit recognizer](https://github.com/miv403/digit-recognition-fcnn).
+
+#### MPU9250 Sensor Fusion and Attitude Indicator
+
+this is a [project to calibrate and fuse MPU9250 with ESP32](https://github.com/miv403/esp32-mpu9250).
+
+#### LD Lidar Visualizer
+
+simple point cloud [visualizer for LD19 Lidar](https://github.com/miv403/lidar-visualizer).
 
 ### [about me](https://miv403.github.io/bio.html)
 

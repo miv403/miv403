@@ -19,7 +19,7 @@ i have developed a [fully connected neural network framework](https://github.com
 
 this is a [project to calibrate and fuse MPU9250 with ESP32](https://github.com/miv403/esp32-mpu9250).
 
-#### LD Lidar Visualizer
+#### Lidar Visualizer
 
 simple point cloud [visualizer for LD19 Lidar](https://github.com/miv403/lidar-visualizer).
 

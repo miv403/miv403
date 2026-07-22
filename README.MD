@@ -11,6 +11,10 @@ miv is a digital persona who has possible binary combinations which is readable 
 
 ### projects
 
+#### AGV Pathfinder
+
+[optimization project](https://github.com/miv403/agv-pathfinder) about Cooperative A* (*CA\**) based Multi-Agent Pathfinding (*MAPF*) simulation for one way corridor and dynamic task cases. 
+
 #### C/C++ FCNN Framework
 
 i have developed a [fully connected neural network framework](https://github.com/miv403/fully-connected-neural-network) with C++ and qt5. it has functionalities like 2D space classifier and regressor. also i have used same framework to develop MNIST Database [digit recognizer](https://github.com/miv403/digit-recognition-fcnn).

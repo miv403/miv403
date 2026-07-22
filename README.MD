@@ -13,7 +13,7 @@ miv is a digital persona who has possible binary combinations which is readable 
 
 #### AGV Pathfinder
 
-[optimization project](https://github.com/miv403/agv-pathfinder) about Cooperative A* (*CA\**) based Multi-Agent Pathfinding (*MAPF*) simulation for one way corridor and dynamic task cases. 
+[optimization project](https://github.com/miv403/agv-pathfinder) about [Cooperative A*](https://ojs.aaai.org/index.php/AIIDE/article/view/18726) (*CA\**) based [Multi-Agent Pathfinding](https://en.wikipedia.org/wiki/Multi-agent_pathfinding) (*MAPF*) simulation for one way corridor and dynamic task cases.
 
 #### C/C++ FCNN Framework
 

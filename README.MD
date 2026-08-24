@@ -15,8 +15,6 @@ miv is a digital persona who has possible binary combinations which is readable 
 
 [a lightweight CLI tool](https://github.com/miv403/hybrid-repo-syncer) to map and sync the directories across repos. it simplifies multi-repository code synchronizazation with respected commit history.
 
-hybrid-syncer is a lightweight Python CLI wrapper around Copybara. It simplifies multi-repository code synchronization by reading a declarative YAML manifest (sync-manifest.yaml), automatically generating Copybara Starlark (copy.bara.sky) configuration files, executing push, pull, list, status, and doctor operations.
-
 #### AGV Pathfinder
 
 [optimization project](https://github.com/miv403/agv-pathfinder) about [Cooperative A*](https://ojs.aaai.org/index.php/AIIDE/article/view/18726) (*CA\**) based [Multi-Agent Pathfinding](https://en.wikipedia.org/wiki/Multi-agent_pathfinding) (*MAPF*) simulation for one way corridor and dynamic task cases.
